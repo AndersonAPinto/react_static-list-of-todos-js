@@ -1,4 +1,3 @@
-// Add the required props
 import cn from 'classnames';
 import { UserInfo } from '../UserInfo/UserInfo';
 
